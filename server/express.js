@@ -9,7 +9,7 @@ const { StaticRouter, matchPath } = require( 'react-router-dom' );
 const app = express();
 
 // import App component
-const { App } = require( '../src/components/app' );
+const App = require( '../src/newsrc/App' );
 
 // import routes
 const routes = require( './routes' );
