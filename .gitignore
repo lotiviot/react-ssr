@@ -1,0 +1,6 @@
+# Created by https://www.toptal.com/developers/gitignore/api/react,yarn,sass,firebase
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,yarn,sass,firebase
+
+### Firebase ###
+
+/node_modules
